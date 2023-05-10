@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc911ca3-8c93-446f-9f2a-d8da87dfb1e5" name="Changes" comment="Adding class constructor">
+    <list default="true" id="dc911ca3-8c93-446f-9f2a-d8da87dfb1e5" name="Changes" comment="Creating a data class">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/example/myapp/AquariumFish.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/example/myapp/decor/Decoration.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/example/myapp/Aquarium.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/example/myapp/Aquarium.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/example/myapp/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/example/myapp/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +37,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.DecorationKt">
+    <configuration name="DecorationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.myapp.decor.DecorationKt" />
+      <module name="week_3_if570_lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="example.myapp.MainKt" />
       <module name="week_3_if570_lab" />
@@ -46,6 +54,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.DecorationKt" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
@@ -87,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683678394335</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Learning about visibility modifiers">
+      <created>1683726175950</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683726175950</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +121,8 @@
     <MESSAGE value="Commit Message" />
     <MESSAGE value="Creating a class" />
     <MESSAGE value="Adding class constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding class constructor" />
+    <MESSAGE value="Learning about visibility modifiers" />
+    <MESSAGE value="Creating a data class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating a data class" />
   </component>
 </project>
