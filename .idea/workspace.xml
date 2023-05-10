@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc911ca3-8c93-446f-9f2a-d8da87dfb1e5" name="Changes" comment="Creating a data class">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/example/myapp/AquariumFish.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/example/myapp/decor/Decoration.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/example/myapp/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/example/myapp/Main.kt" afterDir="false" />
+    <list default="true" id="dc911ca3-8c93-446f-9f2a-d8da87dfb1e5" name="Changes" comment="Learning about singletons and enum">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/example/myapp/decor/Decoration.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/example/myapp/decor/Decoration.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683726175950</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Creating a data class">
+      <created>1683728482409</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683728482444</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +127,7 @@
     <MESSAGE value="Adding class constructor" />
     <MESSAGE value="Learning about visibility modifiers" />
     <MESSAGE value="Creating a data class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating a data class" />
+    <MESSAGE value="Learning about singletons and enum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learning about singletons and enum" />
   </component>
 </project>
