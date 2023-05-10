@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc911ca3-8c93-446f-9f2a-d8da87dfb1e5" name="Changes" comment="Creating a class">
+    <list default="true" id="dc911ca3-8c93-446f-9f2a-d8da87dfb1e5" name="Changes" comment="Adding class constructor">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/example/myapp/Aquarium.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/example/myapp/Aquarium.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/example/myapp/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/example/myapp/Main.kt" afterDir="false" />
@@ -30,12 +30,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="example.myapp.MainKt" />
@@ -80,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683647073724</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding class constructor">
+      <created>1683678394335</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683678394335</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +104,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit Message" />
     <MESSAGE value="Creating a class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating a class" />
+    <MESSAGE value="Adding class constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding class constructor" />
   </component>
 </project>
